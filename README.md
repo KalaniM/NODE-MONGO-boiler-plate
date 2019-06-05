@@ -1,0 +1,1 @@
+# NODE-MONGO-boiler-plate
